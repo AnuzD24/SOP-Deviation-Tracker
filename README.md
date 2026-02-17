@@ -76,7 +76,7 @@ FROM deviation_log GROUP BY Reviewer_Name;
 
 ## Related Project
 
-[Product Compliance Tracker](../product-compliance-tracker) — tracks overall
+[Product Compliance Tracker] — tracks overall
 compliance status of 215 Indian and international products.
 
 ## Note
