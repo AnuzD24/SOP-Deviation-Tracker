@@ -1,0 +1,25 @@
+SOP_ID,Category,Regulatory_Document,Rule_Description
+SOP001,Electronics,BIS,BIS certification number must be present on label
+SOP002,Electronics,BIS,MRP must be printed on outer packaging
+SOP003,Electronics,BIS,Manufacturer address must match registration
+SOP004,Electronics,FCC,FCC ID must be visible on product
+SOP005,Electronics,FCC,Country of origin label required in English
+SOP006,Electronics,CE-Mark,CE marking must be minimum 5mm height
+SOP007,Food & Beverages,FSSAI,FSSAI license number must appear on front label
+SOP008,Food & Beverages,FSSAI,Nutritional information table must be present
+SOP009,Food & Beverages,FSSAI,Best before date must be in DD/MM/YYYY format
+SOP010,Food & Beverages,FSSAI,Allergen declaration must be highlighted in bold
+SOP011,Food & Beverages,FDA,Net quantity must be in metric units
+SOP012,Food & Beverages,FDA,Ingredient list must be in descending order by weight
+SOP013,Cosmetics,CDSCO,Batch number and manufacturing date must be present
+SOP014,Cosmetics,CDSCO,List of ingredients must use INCI names
+SOP015,Cosmetics,CDSCO,Shelf life after opening must be indicated
+SOP016,Cosmetics,FDA,Warning statements must be in English
+SOP017,Toys,BIS,Age recommendation must be printed on packaging
+SOP018,Toys,BIS,Safety warning for choking hazard must be present
+SOP019,Toys,CPSC,ASTM F963 compliance statement required
+SOP020,Toys,CE-Mark,EN 71 safety standard reference must be on label
+SOP021,Home & Kitchen,BIS,ISI mark must be embossed or printed on product
+SOP022,Home & Kitchen,BIS,Wattage and voltage rating must be visible
+SOP023,Home & Kitchen,CE-Mark,Declaration of Conformity document must be included
+SOP024,Home & Kitchen,FDA,Food-safe material certification must be attached
